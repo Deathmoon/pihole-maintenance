@@ -1,7 +1,7 @@
-Sudo apt-get update
-Sudo apt-get upgrade
-Sudo apt-get clean
-Sudo apt-get autoclean
-Sudo apt-get autoremove
-PiHole -g
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get clean
+sudo apt-get autoclean
+sudo apt-get autoremove
+pihole -g
 Sudo reboot
